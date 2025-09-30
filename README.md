@@ -2,10 +2,11 @@
 - 👀 I’m 14 year olds
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on you
-- 📫 susbscribe my chennel www.youtube.com/@ff_gamer_248-y6w 
+- 📫 susbscribe my chennel www.youtube.com/@ateeq-w2k
 - 😄 Pronouns: he
 - ⚡ Fun fact: web developer
-
+- 🎯 Full-stack web developer comming soon
+- 
 <!---
 AteeqDeveloper/AteeqDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
