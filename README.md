@@ -1,3 +1,6 @@
+- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Atiq+Raza;Frontend+Developer;UI%2FUX+Focused+Creator;Responsive+Web+Designer;Always+Learning+New+Tech" />
+</p>
 - 👋 Hi, I’m AteeqDeveloper
 - 👀 I’m 14 year olds
 - 🌱 I’m currently learning CSS
