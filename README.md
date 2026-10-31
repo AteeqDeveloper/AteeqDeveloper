@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/AteeqDeveloper">
+    <img src="https://komarev.com/ghpvc/?username=AteeqDeveloper&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 - 🛠️ Love solving problems and learning new technologies
 - 🎯 Goal: Build scalable applications and contribute to open source
 - 📫 Reach me at: **muhammadateeqraza123@gmail.com**
-- - 🌐 Portfolio: [Visit My Portfolio](https://your-portfolio.vercel.app)
+- 🌐 Portfolio: https://portfolioateeq.vercel.app
 
 ---
 
@@ -63,14 +63,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=AteeqDeveloper&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AteeqDeveloper&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
@@ -82,14 +82,14 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/AteeqDeveloper">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/ateeqraza">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<a href="https://your-portfolio.vercel.app" target="_blank">
+<a href="https://portfolioateeq.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
