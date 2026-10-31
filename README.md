@@ -29,7 +29,8 @@
 - ⚡ Interested in building real-world web applications
 - 🛠️ Love solving problems and learning new technologies
 - 🎯 Goal: Build scalable applications and contribute to open source
-- 📫 Reach me at: **YOUR_EMAIL**
+- 📫 Reach me at: **muhammadateeqraza123@gmail.com**
+- - 🌐 Portfolio: [Visit My Portfolio](https://your-portfolio.vercel.app)
 
 ---
 
@@ -88,6 +89,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<a href="https://your-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 ---
 
